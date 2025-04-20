@@ -1,0 +1,13 @@
+.thumb-menu {
+	text-align: center;
+	display: block;
+	text-decoration: none;
+	color: inherit;
+  }
+  
+  .img-cover {
+	width: 100%;
+	height: auto;
+	border-radius: 8px;
+  }
+  

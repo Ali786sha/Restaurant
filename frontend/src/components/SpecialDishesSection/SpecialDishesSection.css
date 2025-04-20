@@ -1,0 +1,29 @@
+.special-number {
+	font-size: 3rem;
+	font-weight: bold;
+	color: #ff4d4d;
+  }
+  
+  .dishes-text h3 span {
+	color: #ff4d4d;
+	font-weight: bold;
+  }
+  
+  .special-dishes-price {
+	color: #28a745;
+	font-weight: 600;
+  }
+  
+  .btn-primary {
+	display: inline-block;
+	background-color: #ff4d4d;
+	color: white;
+	padding: 10px 20px;
+	border-radius: 4px;
+	text-decoration: none;
+  }
+  
+  .btn-primary:hover {
+	background-color: #e43c3c;
+  }
+  

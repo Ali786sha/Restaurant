@@ -1,0 +1,24 @@
+#gtco-testimonial {
+	padding: 80px 0;
+	color: white;
+	text-align: center;
+}
+
+.testimonial-box {
+	background: rgba(0, 0, 0, 0.5);
+	padding: 20px;
+	border-radius: 10px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.testimonial-text {
+	font-size: 1.2rem;
+	font-style: italic;
+}
+
+.customer-name {
+	margin-top: 20px;
+	font-weight: bold;
+	color: #ffcc00;
+}

@@ -1,0 +1,31 @@
+.footer {
+  background-color: #f3ebeb;
+  color: #fff;
+  padding: 40px 0;
+}
+
+.footer .social-icons {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  gap: 15px;
+}
+
+.footer .social-icons li a {
+  color: #fff;
+  font-size: 20px;
+  transition: 0.3s;
+}
+
+.footer .social-icons li a:hover {
+  color: #f8b400;
+}
+
+.footer .logo img {
+  max-width: 150px;
+}
+
+.left-text-content p {
+  font-size: 14px;
+  line-height: 1.6;
+}
